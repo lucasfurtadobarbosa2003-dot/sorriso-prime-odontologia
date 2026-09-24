@@ -1,0 +1,6 @@
+{
+  "name": "Sorriso Prime Odontologia - Demonstração Vextro",
+  "description": "Site institucional de uma única página para a clínica Sorriso Prime Odontologia, demonstração do plano básico de criação de sites por R$197 da agência Vextro.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
